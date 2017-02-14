@@ -1,2 +1,2 @@
-# CoprocBundle
-CoprocBundle for Symfony2
+# BusBundle
+BusBundle for Symfony2
