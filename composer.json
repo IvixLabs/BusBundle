@@ -1,0 +1,28 @@
+{
+  "name": "ivixlabs/bus-bundle",
+  "type": "library",
+  "description": "BusBundle for Symfony2",
+  "keywords": [
+    "BusBundle",
+    "Bus",
+    "php"
+  ],
+  "homepage": "https://github.com/IvixLabs/BusBundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Ruder",
+      "email": "ivixlabs@gmail.com",
+      "homepage": "http://ivixlabs.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "ivixlabs/bus": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "IvixLabs\\": "src"
+    }
+  }
+}
